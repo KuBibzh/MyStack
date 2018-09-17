@@ -1,5 +1,4 @@
 /*================================================================
-*   Copyright (C) 2018 Sangfor Ltd. All rights reserved.
 *   
 *   文件名称：test.cpp
 *   创 建 者：baozhenhua(鲍振华)
