@@ -1,5 +1,4 @@
 /*================================================================
-*   Copyright (C) 2018 Sangfor Ltd. All rights reserved.
 *   
 *   文件名称：vector_stacks.h
 *   创 建 者：baozhenhua(鲍振华)
